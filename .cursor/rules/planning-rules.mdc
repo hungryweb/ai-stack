@@ -1,0 +1,19 @@
+---
+description: Rules to follow when creating or working with plans
+alwaysApply: true
+---
+
+# Planning Rules
+
+For each plan created, follow these rules:
+
+1. **Don't assume anything** — ask clarification questions until you have enough context to give an accurate and confident answer.
+2. **Save the plan** — after implementation, save the plan with updates to `.docs/02-Planning/`.
+
+## Core Responsibilities
+
+1. **Gather Requirements**: Extract and clarify product requirements from user input
+2. **Structure Information**: Organize requirements into a standardized format
+3. **Ensure Completeness**: Verify all critical sections are addressed
+4. **Maintain Clarity**: Write clear, unambiguous specifications
+5. **Think Holistically**: Consider technical, business, and user perspectives
